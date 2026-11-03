@@ -1,0 +1,2561 @@
+{
+  "note": "day_of_year 1-365; on leap years, reuse day 365's entry for Feb 29 or shift by one day per your app's logic.",
+  "theme_image_mapping_required": "Map each 'theme' tag to one reusable image asset in the app (about 21 themes total) rather than sourcing 365 unique photos.",
+  "days": [
+    {
+      "day_of_year": 1,
+      "theme": "ppe",
+      "subheading": "SAFETY FIRST",
+      "title": "Build The Habit",
+      "message": "Safety is a habit. Practice it every day."
+    },
+    {
+      "day_of_year": 2,
+      "theme": "fire",
+      "subheading": "FIRE SAFETY",
+      "title": "Know The Risk",
+      "message": "Fire spreads fast. Know the risks around you."
+    },
+    {
+      "day_of_year": 3,
+      "theme": "electrical",
+      "subheading": "ELECTRICAL SAFETY",
+      "title": "Respect The Current",
+      "message": "Never touch faulty wiring. Report it."
+    },
+    {
+      "day_of_year": 4,
+      "theme": "chemical",
+      "subheading": "READ THE LABEL",
+      "title": "Know Before You Use",
+      "message": "Read chemical labels before you use them."
+    },
+    {
+      "day_of_year": 5,
+      "theme": "machine",
+      "subheading": "DON'T REMOVE GUARDS",
+      "title": "Keep Them On",
+      "message": "Machine guards save fingers. Keep them on."
+    },
+    {
+      "day_of_year": 6,
+      "theme": "ergonomics",
+      "subheading": "LIFT WITH YOUR LEGS",
+      "title": "Bend The Knees",
+      "message": "Bend your knees, not your back, when lifting."
+    },
+    {
+      "day_of_year": 7,
+      "theme": "reporting",
+      "subheading": "REPORT NEAR MISSES",
+      "title": "Speak Up Early",
+      "message": "Saw a close call? Report it today."
+    },
+    {
+      "day_of_year": 8,
+      "theme": "training",
+      "subheading": "ATTEND TRAINING",
+      "title": "Learn And Stay Safe",
+      "message": "Trained workers stay safer. Attend and learn."
+    },
+    {
+      "day_of_year": 9,
+      "theme": "compliance",
+      "subheading": "RENEW ON TIME",
+      "title": "Don't Let It Lapse",
+      "message": "Renew licenses and permits before they expire."
+    },
+    {
+      "day_of_year": 10,
+      "theme": "transport",
+      "subheading": "WATCH FOR FORKLIFTS",
+      "title": "Stay In Walkways",
+      "message": "Stay in marked walkways. Watch for forklifts."
+    },
+    {
+      "day_of_year": 11,
+      "theme": "water",
+      "subheading": "SAVE WATER",
+      "title": "Every Drop Counts",
+      "message": "Every drop saved helps tomorrow."
+    },
+    {
+      "day_of_year": 12,
+      "theme": "energy",
+      "subheading": "SWITCH OFF",
+      "title": "Turn It Off When Not In Use",
+      "message": "Turn off what you don't need. Save energy."
+    },
+    {
+      "day_of_year": 13,
+      "theme": "waste",
+      "subheading": "SORT YOUR WASTE",
+      "title": "Right Bin, Right Result",
+      "message": "Right bin, right result. Sort it right."
+    },
+    {
+      "day_of_year": 14,
+      "theme": "air",
+      "subheading": "BREATHE CLEAN AIR",
+      "title": "Report Poor Ventilation",
+      "message": "Report bad ventilation right away."
+    },
+    {
+      "day_of_year": 15,
+      "theme": "biodiversity",
+      "subheading": "TREE PLANTATION",
+      "title": "Grow More Than Products",
+      "message": "A tree planted today shades a decade tomorrow."
+    },
+    {
+      "day_of_year": 16,
+      "theme": "mental_health",
+      "subheading": "ASK FOR HELP",
+      "title": "It's Okay",
+      "message": "It's okay to ask for help. Speak up."
+    },
+    {
+      "day_of_year": 17,
+      "theme": "diversity",
+      "subheading": "GENDER EQUALITY",
+      "title": "Fair Workplace For All",
+      "message": "A safe workplace is an equal workplace."
+    },
+    {
+      "day_of_year": 18,
+      "theme": "community",
+      "subheading": "COMMUNITY ENGAGEMENT",
+      "title": "Give Back Together",
+      "message": "Our work impacts the community. Let's give back."
+    },
+    {
+      "day_of_year": 19,
+      "theme": "governance",
+      "subheading": "ETHICS AT WORK",
+      "title": "Do The Right Thing",
+      "message": "Do the right thing, even when no one's watching."
+    },
+    {
+      "day_of_year": 20,
+      "theme": "climate",
+      "subheading": "CLIMATE ACTION",
+      "title": "Every Effort Counts",
+      "message": "Every action to cut emissions counts."
+    },
+    {
+      "day_of_year": 21,
+      "theme": "health",
+      "subheading": "OCCUPATIONAL HEALTH",
+      "title": "Don't Skip The Checkup",
+      "message": "Prevention beats treatment. Don't skip your checkup."
+    },
+    {
+      "day_of_year": 22,
+      "theme": "observance",
+      "subheading": "WORLD SAFETY DAY",
+      "title": "A Global Commitment",
+      "message": "Every worker deserves to go home unharmed."
+    },
+    {
+      "day_of_year": 23,
+      "theme": "ppe",
+      "subheading": "WEAR YOUR PPE",
+      "title": "Gear Up",
+      "message": "Your PPE protects you. Wear it every time."
+    },
+    {
+      "day_of_year": 24,
+      "theme": "fire",
+      "subheading": "KNOW YOUR EXIT",
+      "title": "Plan Your Path",
+      "message": "Know your nearest fire exit right now."
+    },
+    {
+      "day_of_year": 25,
+      "theme": "electrical",
+      "subheading": "WET HANDS, NO SWITCHES",
+      "title": "Stay Dry",
+      "message": "Never touch a switch with wet hands."
+    },
+    {
+      "day_of_year": 26,
+      "theme": "chemical",
+      "subheading": "SAFETY DATA SHEETS",
+      "title": "Check The SDS",
+      "message": "Check the SDS before handling any chemical."
+    },
+    {
+      "day_of_year": 27,
+      "theme": "machine",
+      "subheading": "LOCKOUT-TAGOUT",
+      "title": "Isolate Before You Work",
+      "message": "No isolation, no work on machinery."
+    },
+    {
+      "day_of_year": 28,
+      "theme": "ergonomics",
+      "subheading": "MANUAL HANDLING",
+      "title": "Ask For Help",
+      "message": "Heavy load? Ask for help or use equipment."
+    },
+    {
+      "day_of_year": 29,
+      "theme": "reporting",
+      "subheading": "UNSAFE CONDITIONS",
+      "title": "Don't Walk Past",
+      "message": "See something unsafe? Report it, don't ignore it."
+    },
+    {
+      "day_of_year": 30,
+      "theme": "training",
+      "subheading": "TOOLBOX TALKS",
+      "title": "Five Minutes That Matter",
+      "message": "A short talk prevents a long recovery."
+    },
+    {
+      "day_of_year": 31,
+      "theme": "compliance",
+      "subheading": "KNOW THE REGULATIONS",
+      "title": "Stay Informed",
+      "message": "Know the safety regulations that apply to your role."
+    },
+    {
+      "day_of_year": 32,
+      "theme": "transport",
+      "subheading": "VEHICLE INSPECTION",
+      "title": "Check Before Driving",
+      "message": "Inspect vehicles before every trip."
+    },
+    {
+      "day_of_year": 33,
+      "theme": "water",
+      "subheading": "FIX LEAKS FAST",
+      "title": "Report Dripping Taps",
+      "message": "Report leaking taps and pipes right away."
+    },
+    {
+      "day_of_year": 34,
+      "theme": "energy",
+      "subheading": "ENERGY AUDITS",
+      "title": "Find The Waste",
+      "message": "Energy audits find waste we can fix."
+    },
+    {
+      "day_of_year": 35,
+      "theme": "waste",
+      "subheading": "RECYCLE MORE",
+      "title": "Choose To Recycle",
+      "message": "Choose to recycle. It matters."
+    },
+    {
+      "day_of_year": 36,
+      "theme": "air",
+      "subheading": "EMISSIONS MONITORING",
+      "title": "Track And Reduce",
+      "message": "Track emissions and work to reduce them."
+    },
+    {
+      "day_of_year": 37,
+      "theme": "biodiversity",
+      "subheading": "PROTECT LOCAL WILDLIFE",
+      "title": "Share The Space",
+      "message": "Our site shares space with local wildlife. Respect it."
+    },
+    {
+      "day_of_year": 38,
+      "theme": "mental_health",
+      "subheading": "MENTAL WELLBEING",
+      "title": "You Matter",
+      "message": "Your mental wellbeing matters here, every day."
+    },
+    {
+      "day_of_year": 39,
+      "theme": "diversity",
+      "subheading": "INCLUSIVE CULTURE",
+      "title": "Everyone Belongs",
+      "message": "Everyone belongs here, regardless of background."
+    },
+    {
+      "day_of_year": 40,
+      "theme": "community",
+      "subheading": "LOCAL EMPLOYMENT",
+      "title": "Support Nearby Families",
+      "message": "Local employment strengthens the community around us."
+    },
+    {
+      "day_of_year": 41,
+      "theme": "governance",
+      "subheading": "ANTI-CORRUPTION",
+      "title": "Zero Tolerance",
+      "message": "We have zero tolerance for corruption of any kind."
+    },
+    {
+      "day_of_year": 42,
+      "theme": "climate",
+      "subheading": "CARBON NEUTRAL GOALS",
+      "title": "Work Toward It",
+      "message": "We're working toward carbon neutral operations."
+    },
+    {
+      "day_of_year": 43,
+      "theme": "health",
+      "subheading": "VECTOR CONTROL",
+      "title": "Keep Pests Away",
+      "message": "Standing water breeds more than mosquitoes. Report it."
+    },
+    {
+      "day_of_year": 44,
+      "theme": "observance",
+      "subheading": "WORLD ENVIRONMENT DAY",
+      "title": "Protect Our Planet",
+      "message": "Small actions today protect our planet tomorrow."
+    },
+    {
+      "day_of_year": 45,
+      "theme": "ppe",
+      "subheading": "HELMET ON",
+      "title": "Head Protection",
+      "message": "A helmet takes one second. A head injury takes a lifetime."
+    },
+    {
+      "day_of_year": 46,
+      "theme": "fire",
+      "subheading": "FIRE EXTINGUISHER USE",
+      "title": "Learn To Use It",
+      "message": "Know how to use a fire extinguisher before you need it."
+    },
+    {
+      "day_of_year": 47,
+      "theme": "electrical",
+      "subheading": "EXTENSION CORD SAFETY",
+      "title": "Check Before Use",
+      "message": "Check extension cords for damage before use."
+    },
+    {
+      "day_of_year": 48,
+      "theme": "chemical",
+      "subheading": "CHEMICAL STORAGE",
+      "title": "Separate Incompatibles",
+      "message": "Store incompatible chemicals separately."
+    },
+    {
+      "day_of_year": 49,
+      "theme": "machine",
+      "subheading": "MACHINE INSPECTION",
+      "title": "Check Before You Start",
+      "message": "Inspect your machine before starting each shift."
+    },
+    {
+      "day_of_year": 50,
+      "theme": "ergonomics",
+      "subheading": "REPETITIVE STRAIN",
+      "title": "Take Micro-Breaks",
+      "message": "Take short breaks during repetitive tasks."
+    },
+    {
+      "day_of_year": 51,
+      "theme": "reporting",
+      "subheading": "INCIDENT REPORTING",
+      "title": "Report It Fast",
+      "message": "Report every incident, however small, right away."
+    },
+    {
+      "day_of_year": 52,
+      "theme": "training",
+      "subheading": "SAFETY INDUCTION",
+      "title": "Start Right",
+      "message": "A thorough induction builds a lifetime of good habits."
+    },
+    {
+      "day_of_year": 53,
+      "theme": "compliance",
+      "subheading": "AUDIT READINESS",
+      "title": "Stay Prepared",
+      "message": "Keep your records audit-ready at all times."
+    },
+    {
+      "day_of_year": 54,
+      "theme": "transport",
+      "subheading": "SPEED LIMITS ON SITE",
+      "title": "Slow Down",
+      "message": "Follow site speed limits. Every time."
+    },
+    {
+      "day_of_year": 55,
+      "theme": "water",
+      "subheading": "WATER REUSE",
+      "title": "Recycle Where You Can",
+      "message": "Reuse water where the process allows."
+    },
+    {
+      "day_of_year": 56,
+      "theme": "energy",
+      "subheading": "LED LIGHTING",
+      "title": "Upgrade And Save",
+      "message": "LED lighting uses less energy. Upgrade where possible."
+    },
+    {
+      "day_of_year": 57,
+      "theme": "waste",
+      "subheading": "REDUCE SINGLE-USE",
+      "title": "Cut The Waste",
+      "message": "Cut down on single-use items where you can."
+    },
+    {
+      "day_of_year": 58,
+      "theme": "air",
+      "subheading": "DUST CONTROL",
+      "title": "Suppress It Early",
+      "message": "Control dust at the source, not after it spreads."
+    },
+    {
+      "day_of_year": 59,
+      "theme": "biodiversity",
+      "subheading": "GREEN SPACES",
+      "title": "Maintain Them Well",
+      "message": "Maintain green spaces on site for everyone."
+    },
+    {
+      "day_of_year": 60,
+      "theme": "mental_health",
+      "subheading": "STRESS MANAGEMENT",
+      "title": "Take A Moment",
+      "message": "Take a moment to breathe when stress builds up."
+    },
+    {
+      "day_of_year": 61,
+      "theme": "diversity",
+      "subheading": "EQUAL OPPORTUNITY",
+      "title": "Fair Access For All",
+      "message": "Fair opportunity strengthens our whole team."
+    },
+    {
+      "day_of_year": 62,
+      "theme": "community",
+      "subheading": "CSR ACTIVITIES",
+      "title": "Join The Effort",
+      "message": "Join our CSR activities when you can."
+    },
+    {
+      "day_of_year": 63,
+      "theme": "governance",
+      "subheading": "TRANSPARENT REPORTING",
+      "title": "Report It Honestly",
+      "message": "Honest reporting builds trust at every level."
+    },
+    {
+      "day_of_year": 64,
+      "theme": "climate",
+      "subheading": "SUSTAINABLE SOURCING",
+      "title": "Choose Responsibly",
+      "message": "Choose sustainably sourced materials where possible."
+    },
+    {
+      "day_of_year": 65,
+      "theme": "health",
+      "subheading": "FOOD SAFETY",
+      "title": "Clean Hands, Safe Meals",
+      "message": "Clean hands make safe meals in the canteen."
+    },
+    {
+      "day_of_year": 66,
+      "theme": "observance",
+      "subheading": "EARTH DAY",
+      "title": "One Planet, One Chance",
+      "message": "We share one planet. Let's protect it together."
+    },
+    {
+      "day_of_year": 67,
+      "theme": "ppe",
+      "subheading": "SAFETY GLOVES",
+      "title": "Protect Your Hands",
+      "message": "Hands do the most work. Glove up for every task."
+    },
+    {
+      "day_of_year": 68,
+      "theme": "fire",
+      "subheading": "FIRE DRILLS",
+      "title": "Practice Matters",
+      "message": "Take every fire drill seriously. Practice saves lives."
+    },
+    {
+      "day_of_year": 69,
+      "theme": "electrical",
+      "subheading": "NO OVERLOADING SOCKETS",
+      "title": "One Plug At A Time",
+      "message": "Don't overload a single socket."
+    },
+    {
+      "day_of_year": 70,
+      "theme": "chemical",
+      "subheading": "SPILL RESPONSE",
+      "title": "Act Fast",
+      "message": "Contain a chemical spill immediately."
+    },
+    {
+      "day_of_year": 71,
+      "theme": "machine",
+      "subheading": "EMERGENCY STOPS",
+      "title": "Know Their Location",
+      "message": "Know where your machine's emergency stop is."
+    },
+    {
+      "day_of_year": 72,
+      "theme": "ergonomics",
+      "subheading": "WORKSTATION SETUP",
+      "title": "Adjust It Right",
+      "message": "Adjust your chair and screen to fit you."
+    },
+    {
+      "day_of_year": 73,
+      "theme": "reporting",
+      "subheading": "SUGGESTION BOX",
+      "title": "Share Your Idea",
+      "message": "Your safety idea could prevent an incident."
+    },
+    {
+      "day_of_year": 74,
+      "theme": "training",
+      "subheading": "REFRESHER TRAINING",
+      "title": "Stay Current",
+      "message": "Refresh your safety training regularly."
+    },
+    {
+      "day_of_year": 75,
+      "theme": "compliance",
+      "subheading": "LEGAL REGISTER UPDATES",
+      "title": "Track Every Change",
+      "message": "Track changes to applicable laws promptly."
+    },
+    {
+      "day_of_year": 76,
+      "theme": "transport",
+      "subheading": "SEAT BELTS",
+      "title": "Buckle Up Always",
+      "message": "Buckle your seat belt, every trip, every time."
+    },
+    {
+      "day_of_year": 77,
+      "theme": "water",
+      "subheading": "RAINWATER HARVESTING",
+      "title": "Capture What Falls",
+      "message": "Rainwater harvesting reduces our water footprint."
+    },
+    {
+      "day_of_year": 78,
+      "theme": "energy",
+      "subheading": "EQUIPMENT IDLE TIME",
+      "title": "Shut Down When Idle",
+      "message": "Shut down equipment during idle periods."
+    },
+    {
+      "day_of_year": 79,
+      "theme": "waste",
+      "subheading": "HAZARDOUS WASTE DISPOSAL",
+      "title": "Follow The Procedure",
+      "message": "Hazardous waste needs proper disposal, always."
+    },
+    {
+      "day_of_year": 80,
+      "theme": "air",
+      "subheading": "AIR QUALITY TESTING",
+      "title": "Test Regularly",
+      "message": "Regular air quality testing keeps everyone safe."
+    },
+    {
+      "day_of_year": 81,
+      "theme": "biodiversity",
+      "subheading": "NATIVE PLANTING",
+      "title": "Choose Local Species",
+      "message": "Native plants support local ecosystems best."
+    },
+    {
+      "day_of_year": 82,
+      "theme": "mental_health",
+      "subheading": "WORK-LIFE BALANCE",
+      "title": "Protect Your Time",
+      "message": "Protect your personal time outside of work."
+    },
+    {
+      "day_of_year": 83,
+      "theme": "diversity",
+      "subheading": "RESPECT AT WORK",
+      "title": "Treat Everyone Fairly",
+      "message": "Treat every colleague with respect, always."
+    },
+    {
+      "day_of_year": 84,
+      "theme": "community",
+      "subheading": "EDUCATION SUPPORT",
+      "title": "Invest In The Future",
+      "message": "Supporting local education invests in our shared future."
+    },
+    {
+      "day_of_year": 85,
+      "theme": "governance",
+      "subheading": "CONFLICT OF INTEREST",
+      "title": "Disclose It",
+      "message": "Disclose any conflict of interest promptly."
+    },
+    {
+      "day_of_year": 86,
+      "theme": "climate",
+      "subheading": "CLIMATE RISK AWARENESS",
+      "title": "Plan Ahead",
+      "message": "Understanding climate risk helps us plan ahead."
+    },
+    {
+      "day_of_year": 87,
+      "theme": "health",
+      "subheading": "HEAT STRESS",
+      "title": "Hydrate Before You're Thirsty",
+      "message": "Thirst is already late. Drink water on a schedule."
+    },
+    {
+      "day_of_year": 88,
+      "theme": "observance",
+      "subheading": "WORLD HEALTH DAY",
+      "title": "Health For All",
+      "message": "Good health is the foundation of good work."
+    },
+    {
+      "day_of_year": 89,
+      "theme": "ppe",
+      "subheading": "EYE PROTECTION",
+      "title": "Guard Your Vision",
+      "message": "Wear goggles. Vision lost is lost forever."
+    },
+    {
+      "day_of_year": 90,
+      "theme": "fire",
+      "subheading": "HOT WORK PERMIT",
+      "title": "Control The Spark",
+      "message": "Hot work needs a permit. No shortcuts."
+    },
+    {
+      "day_of_year": 91,
+      "theme": "electrical",
+      "subheading": "CIRCUIT BREAKERS",
+      "title": "Know Your Panel",
+      "message": "Know where your area's circuit breaker is."
+    },
+    {
+      "day_of_year": 92,
+      "theme": "chemical",
+      "subheading": "CHEMICAL PPE",
+      "title": "Match The Hazard",
+      "message": "Wear PPE that matches the chemical hazard."
+    },
+    {
+      "day_of_year": 93,
+      "theme": "machine",
+      "subheading": "PINCH POINTS",
+      "title": "Keep Hands Clear",
+      "message": "Keep hands clear of moving parts."
+    },
+    {
+      "day_of_year": 94,
+      "theme": "ergonomics",
+      "subheading": "STANDING FOR LONG HOURS",
+      "title": "Shift Your Weight",
+      "message": "Shift your weight and stretch during long standing tasks."
+    },
+    {
+      "day_of_year": 95,
+      "theme": "reporting",
+      "subheading": "OBSERVE & CORRECT",
+      "title": "Everyone's Responsibility",
+      "message": "Correcting an unsafe act is everyone's job."
+    },
+    {
+      "day_of_year": 96,
+      "theme": "training",
+      "subheading": "NEW HIRE ORIENTATION",
+      "title": "Set The Tone",
+      "message": "New hires deserve a strong safety start."
+    },
+    {
+      "day_of_year": 97,
+      "theme": "compliance",
+      "subheading": "PERMIT TO WORK",
+      "title": "No Permit, No Work",
+      "message": "Hazardous tasks need a permit. No exceptions."
+    },
+    {
+      "day_of_year": 98,
+      "theme": "transport",
+      "subheading": "LOADING DOCK SAFETY",
+      "title": "Stay Alert",
+      "message": "Stay alert around loading docks and reversing vehicles."
+    },
+    {
+      "day_of_year": 99,
+      "theme": "water",
+      "subheading": "WATER METERING",
+      "title": "Track The Usage",
+      "message": "Track water usage to spot waste early."
+    },
+    {
+      "day_of_year": 100,
+      "theme": "energy",
+      "subheading": "RENEWABLE ENERGY",
+      "title": "Choose Clean Power",
+      "message": "Every renewable unit used is a fossil unit saved."
+    },
+    {
+      "day_of_year": 101,
+      "theme": "waste",
+      "subheading": "E-WASTE MANAGEMENT",
+      "title": "Dispose Responsibly",
+      "message": "Old electronics need approved e-waste channels."
+    },
+    {
+      "day_of_year": 102,
+      "theme": "air",
+      "subheading": "VENTILATION SYSTEMS",
+      "title": "Keep Them Maintained",
+      "message": "Keep ventilation systems clean and maintained."
+    },
+    {
+      "day_of_year": 103,
+      "theme": "biodiversity",
+      "subheading": "POLLINATOR FRIENDLY",
+      "title": "Support The Bees",
+      "message": "Pollinator-friendly plants support the whole ecosystem."
+    },
+    {
+      "day_of_year": 104,
+      "theme": "mental_health",
+      "subheading": "PEER SUPPORT",
+      "title": "Check On Each Other",
+      "message": "Check in on your colleagues sometimes."
+    },
+    {
+      "day_of_year": 105,
+      "theme": "diversity",
+      "subheading": "ANTI-HARASSMENT",
+      "title": "Zero Tolerance",
+      "message": "We have zero tolerance for harassment of any kind."
+    },
+    {
+      "day_of_year": 106,
+      "theme": "community",
+      "subheading": "HEALTH CAMPS",
+      "title": "Support Community Health",
+      "message": "Community health camps benefit everyone nearby."
+    },
+    {
+      "day_of_year": 107,
+      "theme": "governance",
+      "subheading": "DATA PRIVACY",
+      "title": "Protect Information",
+      "message": "Protect personal and company data carefully."
+    },
+    {
+      "day_of_year": 108,
+      "theme": "climate",
+      "subheading": "GREEN SUPPLY CHAIN",
+      "title": "Extend The Standard",
+      "message": "Extend sustainability standards across our supply chain."
+    },
+    {
+      "day_of_year": 109,
+      "theme": "health",
+      "subheading": "COLD STRESS",
+      "title": "Layer Up",
+      "message": "Cold environments need proper layered clothing."
+    },
+    {
+      "day_of_year": 110,
+      "theme": "observance",
+      "subheading": "FIRE SERVICE DAY",
+      "title": "Honor The Protectors",
+      "message": "Honor those who protect us from fire, every day."
+    },
+    {
+      "day_of_year": 111,
+      "theme": "ppe",
+      "subheading": "SAFETY SHOES",
+      "title": "Step Safe",
+      "message": "Good shoes protect your feet all shift long."
+    },
+    {
+      "day_of_year": 112,
+      "theme": "fire",
+      "subheading": "KEEP EXITS CLEAR",
+      "title": "Don't Block The Path",
+      "message": "Never block a fire exit or walkway."
+    },
+    {
+      "day_of_year": 113,
+      "theme": "electrical",
+      "subheading": "LOCKOUT BEFORE REPAIR",
+      "title": "Isolate First",
+      "message": "Isolate power before any electrical repair."
+    },
+    {
+      "day_of_year": 114,
+      "theme": "chemical",
+      "subheading": "VENTILATION MATTERS",
+      "title": "Work In Open Air",
+      "message": "Use chemicals only in ventilated areas."
+    },
+    {
+      "day_of_year": 115,
+      "theme": "machine",
+      "subheading": "ROTATING EQUIPMENT",
+      "title": "Loose Clothing Risk",
+      "message": "Tie back loose clothing near rotating equipment."
+    },
+    {
+      "day_of_year": 116,
+      "theme": "ergonomics",
+      "subheading": "CARRYING LOADS",
+      "title": "Keep It Close",
+      "message": "Carry loads close to your body."
+    },
+    {
+      "day_of_year": 117,
+      "theme": "reporting",
+      "subheading": "ANONYMOUS REPORTING",
+      "title": "Your Voice Is Safe",
+      "message": "Anonymous reporting is available. Use it if needed."
+    },
+    {
+      "day_of_year": 118,
+      "theme": "training",
+      "subheading": "SKILL CERTIFICATION",
+      "title": "Get Certified",
+      "message": "Certified skills mean safer work. Get certified."
+    },
+    {
+      "day_of_year": 119,
+      "theme": "compliance",
+      "subheading": "DOCUMENTATION ACCURACY",
+      "title": "Keep Records Clean",
+      "message": "Accurate records protect everyone. Keep them clean."
+    },
+    {
+      "day_of_year": 120,
+      "theme": "transport",
+      "subheading": "PEDESTRIAN CROSSINGS",
+      "title": "Use The Marked Path",
+      "message": "Use marked pedestrian crossings on site."
+    },
+    {
+      "day_of_year": 121,
+      "theme": "water",
+      "subheading": "EFFLUENT TREATMENT",
+      "title": "Treat Before Release",
+      "message": "Never release untreated water. Treat it first."
+    },
+    {
+      "day_of_year": 122,
+      "theme": "energy",
+      "subheading": "HVAC EFFICIENCY",
+      "title": "Set It Right",
+      "message": "Set HVAC temperatures for efficiency, not excess."
+    },
+    {
+      "day_of_year": 123,
+      "theme": "waste",
+      "subheading": "COMPOSTING",
+      "title": "Turn Waste To Resource",
+      "message": "Organic waste can become useful compost."
+    },
+    {
+      "day_of_year": 124,
+      "theme": "air",
+      "subheading": "VOC REDUCTION",
+      "title": "Choose Low-VOC",
+      "message": "Choose low-VOC materials where possible."
+    },
+    {
+      "day_of_year": 125,
+      "theme": "biodiversity",
+      "subheading": "HABITAT PROTECTION",
+      "title": "Avoid Disruption",
+      "message": "Avoid disrupting habitats near our operations."
+    },
+    {
+      "day_of_year": 126,
+      "theme": "mental_health",
+      "subheading": "COUNSELING SUPPORT",
+      "title": "It's Available",
+      "message": "Counseling support is available if you need it."
+    },
+    {
+      "day_of_year": 127,
+      "theme": "diversity",
+      "subheading": "DIVERSE PERSPECTIVES",
+      "title": "Value Different Views",
+      "message": "Diverse perspectives make our decisions stronger."
+    },
+    {
+      "day_of_year": 128,
+      "theme": "community",
+      "subheading": "DISASTER RELIEF SUPPORT",
+      "title": "Be Ready To Help",
+      "message": "We support communities during times of need."
+    },
+    {
+      "day_of_year": 129,
+      "theme": "governance",
+      "subheading": "WHISTLEBLOWER PROTECTION",
+      "title": "Speak Up Safely",
+      "message": "Whistleblowers are protected here. Speak up safely."
+    },
+    {
+      "day_of_year": 130,
+      "theme": "climate",
+      "subheading": "EMISSION REDUCTION TARGETS",
+      "title": "Track Our Progress",
+      "message": "We track our emission reduction targets closely."
+    },
+    {
+      "day_of_year": 131,
+      "theme": "health",
+      "subheading": "NOISE-INDUCED HEARING LOSS",
+      "title": "Prevent It Early",
+      "message": "Hearing loss is permanent. Protect it early."
+    },
+    {
+      "day_of_year": 132,
+      "theme": "observance",
+      "subheading": "ROAD SAFETY WEEK",
+      "title": "Drive With Care",
+      "message": "Careful driving protects you and everyone around you."
+    },
+    {
+      "day_of_year": 133,
+      "theme": "ppe",
+      "subheading": "HEARING PROTECTION",
+      "title": "Protect Your Ears",
+      "message": "Loud areas need ear plugs. Use them."
+    },
+    {
+      "day_of_year": 134,
+      "theme": "fire",
+      "subheading": "FLAMMABLE STORAGE",
+      "title": "Store It Safe",
+      "message": "Store flammable materials away from heat sources."
+    },
+    {
+      "day_of_year": 135,
+      "theme": "electrical",
+      "subheading": "CABLE INSPECTION",
+      "title": "Check Regularly",
+      "message": "Inspect cables regularly for wear and damage."
+    },
+    {
+      "day_of_year": 136,
+      "theme": "chemical",
+      "subheading": "LABELING CONTAINERS",
+      "title": "Never Leave Unlabeled",
+      "message": "Always label chemical containers clearly."
+    },
+    {
+      "day_of_year": 137,
+      "theme": "machine",
+      "subheading": "MAINTENANCE SCHEDULES",
+      "title": "Don't Skip Service",
+      "message": "Follow equipment maintenance schedules strictly."
+    },
+    {
+      "day_of_year": 138,
+      "theme": "ergonomics",
+      "subheading": "PUSH DON'T PULL",
+      "title": "Choose The Safer Move",
+      "message": "Pushing a load is safer than pulling."
+    },
+    {
+      "day_of_year": 139,
+      "theme": "reporting",
+      "subheading": "INVESTIGATION SUPPORT",
+      "title": "Help Us Learn",
+      "message": "Support investigations honestly. We learn from every case."
+    },
+    {
+      "day_of_year": 140,
+      "theme": "training",
+      "subheading": "CROSS-TRAINING",
+      "title": "Learn More Roles",
+      "message": "Cross-training builds a stronger, safer team."
+    },
+    {
+      "day_of_year": 141,
+      "theme": "compliance",
+      "subheading": "STATUTORY INSPECTIONS",
+      "title": "Don't Miss The Date",
+      "message": "Statutory inspections keep equipment certified. Don't miss them."
+    },
+    {
+      "day_of_year": 142,
+      "theme": "transport",
+      "subheading": "REVERSING VEHICLES",
+      "title": "Use A Spotter",
+      "message": "Use a spotter when reversing large vehicles."
+    },
+    {
+      "day_of_year": 143,
+      "theme": "water",
+      "subheading": "WATER-EFFICIENT FIXTURES",
+      "title": "Upgrade When Possible",
+      "message": "Water-efficient fixtures save more over time."
+    },
+    {
+      "day_of_year": 144,
+      "theme": "energy",
+      "subheading": "PEAK LOAD MANAGEMENT",
+      "title": "Spread The Usage",
+      "message": "Spread energy use to avoid peak load stress."
+    },
+    {
+      "day_of_year": 145,
+      "theme": "waste",
+      "subheading": "PACKAGING WASTE",
+      "title": "Minimize It",
+      "message": "Choose packaging that creates less waste."
+    },
+    {
+      "day_of_year": 146,
+      "theme": "air",
+      "subheading": "EXHAUST SYSTEMS",
+      "title": "Check Regularly",
+      "message": "Check exhaust systems for proper function."
+    },
+    {
+      "day_of_year": 147,
+      "theme": "biodiversity",
+      "subheading": "BIODIVERSITY AWARENESS",
+      "title": "Learn And Protect",
+      "message": "Learning about biodiversity helps us protect it."
+    },
+    {
+      "day_of_year": 148,
+      "theme": "mental_health",
+      "subheading": "BURNOUT AWARENESS",
+      "title": "Recognize The Signs",
+      "message": "Recognize burnout signs early, in yourself and others."
+    },
+    {
+      "day_of_year": 149,
+      "theme": "diversity",
+      "subheading": "FAIR WAGES",
+      "title": "Pay Equity Matters",
+      "message": "Fair pay for fair work, for everyone."
+    },
+    {
+      "day_of_year": 150,
+      "theme": "community",
+      "subheading": "LOCAL SUPPLIER SUPPORT",
+      "title": "Strengthen The Region",
+      "message": "Supporting local suppliers strengthens the region."
+    },
+    {
+      "day_of_year": 151,
+      "theme": "governance",
+      "subheading": "FAIR PROCUREMENT",
+      "title": "Choose Ethically",
+      "message": "Choose suppliers who meet our ethical standards."
+    },
+    {
+      "day_of_year": 152,
+      "theme": "climate",
+      "subheading": "SUSTAINABLE PACKAGING",
+      "title": "Choose Better Materials",
+      "message": "Better packaging materials reduce our footprint."
+    },
+    {
+      "day_of_year": 153,
+      "theme": "health",
+      "subheading": "ERGONOMIC HEALTH CHECKS",
+      "title": "Get Assessed",
+      "message": "Regular ergonomic checks prevent long-term strain."
+    },
+    {
+      "day_of_year": 154,
+      "theme": "observance",
+      "subheading": "WORLD WATER DAY",
+      "title": "Value Every Drop",
+      "message": "World Water Day reminds us to value every drop."
+    },
+    {
+      "day_of_year": 155,
+      "theme": "ppe",
+      "subheading": "RESPIRATORY MASK",
+      "title": "Breathe Safe",
+      "message": "Fit your mask correctly before you start work."
+    },
+    {
+      "day_of_year": 156,
+      "theme": "fire",
+      "subheading": "SMOKE DETECTORS",
+      "title": "Stay Alert",
+      "message": "Report any smoke detector that isn't working."
+    },
+    {
+      "day_of_year": 157,
+      "theme": "electrical",
+      "subheading": "NO DIY REPAIRS",
+      "title": "Call A Qualified Electrician",
+      "message": "Never repair electrical faults yourself. Call an electrician."
+    },
+    {
+      "day_of_year": 158,
+      "theme": "chemical",
+      "subheading": "DECANTING SAFELY",
+      "title": "Use The Right Container",
+      "message": "Decant chemicals into approved containers only."
+    },
+    {
+      "day_of_year": 159,
+      "theme": "machine",
+      "subheading": "UNAUTHORIZED OPERATION",
+      "title": "Trained Operators Only",
+      "message": "Only trained operators should run machinery."
+    },
+    {
+      "day_of_year": 160,
+      "theme": "ergonomics",
+      "subheading": "TEAM LIFTING",
+      "title": "Coordinate The Lift",
+      "message": "Heavy items need a coordinated team lift."
+    },
+    {
+      "day_of_year": 161,
+      "theme": "reporting",
+      "subheading": "CLOSE CALLS COUNT",
+      "title": "Don't Dismiss Them",
+      "message": "A close call today prevents an injury tomorrow."
+    },
+    {
+      "day_of_year": 162,
+      "theme": "training",
+      "subheading": "EMERGENCY RESPONSE TRAINING",
+      "title": "Know What To Do",
+      "message": "Know your role in an emergency before it happens."
+    },
+    {
+      "day_of_year": 163,
+      "theme": "compliance",
+      "subheading": "COMPLIANCE TRAINING",
+      "title": "Know Your Obligations",
+      "message": "Know your compliance obligations for your role."
+    },
+    {
+      "day_of_year": 164,
+      "theme": "transport",
+      "subheading": "FORKLIFT CERTIFICATION",
+      "title": "Trained Operators Only",
+      "message": "Only certified operators should drive forklifts."
+    },
+    {
+      "day_of_year": 165,
+      "theme": "water",
+      "subheading": "GROUNDWATER PROTECTION",
+      "title": "Prevent Contamination",
+      "message": "Prevent chemicals from reaching groundwater."
+    },
+    {
+      "day_of_year": 166,
+      "theme": "energy",
+      "subheading": "INSULATION MATTERS",
+      "title": "Reduce The Loss",
+      "message": "Good insulation reduces energy loss."
+    },
+    {
+      "day_of_year": 167,
+      "theme": "waste",
+      "subheading": "SCRAP MATERIAL REUSE",
+      "title": "Reuse Before You Discard",
+      "message": "Check if scrap material can be reused first."
+    },
+    {
+      "day_of_year": 168,
+      "theme": "air",
+      "subheading": "INDOOR AIR QUALITY",
+      "title": "It Matters Too",
+      "message": "Indoor air quality affects health just like outdoor air."
+    },
+    {
+      "day_of_year": 169,
+      "theme": "biodiversity",
+      "subheading": "SOIL HEALTH",
+      "title": "Protect What Grows",
+      "message": "Healthy soil supports healthy green spaces."
+    },
+    {
+      "day_of_year": 170,
+      "theme": "mental_health",
+      "subheading": "REST AND RECOVERY",
+      "title": "Rest Is Productive",
+      "message": "A rested mind works safer and better."
+    },
+    {
+      "day_of_year": 171,
+      "theme": "diversity",
+      "subheading": "ACCESSIBLE WORKPLACE",
+      "title": "Design For Everyone",
+      "message": "An accessible workplace works better for everyone."
+    },
+    {
+      "day_of_year": 172,
+      "theme": "community",
+      "subheading": "COMMUNITY FEEDBACK",
+      "title": "Listen And Respond",
+      "message": "Listen to community feedback about our impact."
+    },
+    {
+      "day_of_year": 173,
+      "theme": "governance",
+      "subheading": "POLICY COMPLIANCE",
+      "title": "Know The Rules",
+      "message": "Know and follow company policies."
+    },
+    {
+      "day_of_year": 174,
+      "theme": "climate",
+      "subheading": "CLIMATE REPORTING",
+      "title": "Be Transparent",
+      "message": "Transparent climate reporting builds stakeholder trust."
+    },
+    {
+      "day_of_year": 175,
+      "theme": "health",
+      "subheading": "VACCINATION AWARENESS",
+      "title": "Stay Protected",
+      "message": "Stay up to date on recommended vaccinations."
+    },
+    {
+      "day_of_year": 176,
+      "theme": "observance",
+      "subheading": "NO TOBACCO DAY",
+      "title": "Choose Health",
+      "message": "Choosing not to smoke protects you and those around you."
+    },
+    {
+      "day_of_year": 177,
+      "theme": "ppe",
+      "subheading": "HIGH-VIS VEST",
+      "title": "Be Seen",
+      "message": "Wear your vest where vehicles move."
+    },
+    {
+      "day_of_year": 178,
+      "theme": "fire",
+      "subheading": "FIRE ALARM RESPONSE",
+      "title": "Act Fast",
+      "message": "When the alarm sounds, walk to your assembly point."
+    },
+    {
+      "day_of_year": 179,
+      "theme": "electrical",
+      "subheading": "EARTHING & GROUNDING",
+      "title": "Check The Connection",
+      "message": "Check equipment earthing before use."
+    },
+    {
+      "day_of_year": 180,
+      "theme": "chemical",
+      "subheading": "CHEMICAL DISPOSAL",
+      "title": "Follow The Procedure",
+      "message": "Dispose of chemical waste through proper channels."
+    },
+    {
+      "day_of_year": 181,
+      "theme": "machine",
+      "subheading": "NOISE FROM MACHINES",
+      "title": "Report Unusual Sounds",
+      "message": "Unusual machine noise? Report it before it fails."
+    },
+    {
+      "day_of_year": 182,
+      "theme": "ergonomics",
+      "subheading": "STRETCH BREAKS",
+      "title": "Move Your Body",
+      "message": "Take a stretch break every couple of hours."
+    },
+    {
+      "day_of_year": 183,
+      "theme": "reporting",
+      "subheading": "SAFETY WALK PARTICIPATION",
+      "title": "Join The Walk",
+      "message": "Join safety walks. Your eyes catch what others miss."
+    },
+    {
+      "day_of_year": 184,
+      "theme": "training",
+      "subheading": "CONTRACTOR ORIENTATION",
+      "title": "Same Standard For All",
+      "message": "Contractors get the same safety orientation as staff."
+    },
+    {
+      "day_of_year": 185,
+      "theme": "compliance",
+      "subheading": "EXTERNAL AUDIT PREP",
+      "title": "Be Ready Always",
+      "message": "Be audit-ready every day, not just before a visit."
+    },
+    {
+      "day_of_year": 186,
+      "theme": "transport",
+      "subheading": "LOAD SECURING",
+      "title": "Secure Before You Move",
+      "message": "Secure loads properly before transport."
+    },
+    {
+      "day_of_year": 187,
+      "theme": "water",
+      "subheading": "WATER AUDITS",
+      "title": "Know Where It Goes",
+      "message": "Water audits show where usage can improve."
+    },
+    {
+      "day_of_year": 188,
+      "theme": "energy",
+      "subheading": "SOLAR POWER",
+      "title": "Harness The Sun",
+      "message": "Solar power reduces our carbon footprint."
+    },
+    {
+      "day_of_year": 189,
+      "theme": "waste",
+      "subheading": "WASTE AUDITS",
+      "title": "Know What We Throw",
+      "message": "Waste audits show what we can reduce."
+    },
+    {
+      "day_of_year": 190,
+      "theme": "air",
+      "subheading": "CARBON EMISSIONS",
+      "title": "Reduce Our Footprint",
+      "message": "Every reduction in emissions helps our footprint."
+    },
+    {
+      "day_of_year": 191,
+      "theme": "biodiversity",
+      "subheading": "WATER BODY PROTECTION",
+      "title": "Keep It Clean",
+      "message": "Keep nearby water bodies free of waste."
+    },
+    {
+      "day_of_year": 192,
+      "theme": "mental_health",
+      "subheading": "OPEN CONVERSATIONS",
+      "title": "No Stigma Here",
+      "message": "Talking about mental health has no stigma here."
+    },
+    {
+      "day_of_year": 193,
+      "theme": "diversity",
+      "subheading": "CULTURAL AWARENESS",
+      "title": "Learn From Each Other",
+      "message": "Learning from different cultures makes us stronger."
+    },
+    {
+      "day_of_year": 194,
+      "theme": "community",
+      "subheading": "VOLUNTEER PROGRAMS",
+      "title": "Get Involved",
+      "message": "Volunteer programs are open to everyone."
+    },
+    {
+      "day_of_year": 195,
+      "theme": "governance",
+      "subheading": "ACCOUNTABILITY",
+      "title": "Own Your Actions",
+      "message": "Accountability builds trust across every team."
+    },
+    {
+      "day_of_year": 196,
+      "theme": "climate",
+      "subheading": "LOW-CARBON TRANSPORT",
+      "title": "Choose Efficient Options",
+      "message": "Choose lower-carbon transport options where possible."
+    },
+    {
+      "day_of_year": 197,
+      "theme": "health",
+      "subheading": "HYGIENE STANDARDS",
+      "title": "Maintain Them Daily",
+      "message": "Daily hygiene standards protect the whole team."
+    },
+    {
+      "day_of_year": 198,
+      "theme": "observance",
+      "subheading": "WORLD MENTAL HEALTH DAY",
+      "title": "Check In Today",
+      "message": "Check in on your own mental health today."
+    },
+    {
+      "day_of_year": 199,
+      "theme": "ppe",
+      "subheading": "PPE INSPECTION",
+      "title": "Check Before You Wear",
+      "message": "Damaged PPE won't protect you. Check it first."
+    },
+    {
+      "day_of_year": 200,
+      "theme": "fire",
+      "subheading": "ELECTRICAL FIRE CAUSES",
+      "title": "Prevent It Early",
+      "message": "Faulty wiring causes fires. Report it fast."
+    },
+    {
+      "day_of_year": 201,
+      "theme": "electrical",
+      "subheading": "ARC FLASH AWARENESS",
+      "title": "Know The Danger Zone",
+      "message": "Arc flash can happen fast. Keep clear distance."
+    },
+    {
+      "day_of_year": 202,
+      "theme": "chemical",
+      "subheading": "EYEWASH STATIONS",
+      "title": "Know The Location",
+      "message": "Know your nearest eyewash station."
+    },
+    {
+      "day_of_year": 203,
+      "theme": "machine",
+      "subheading": "CONVEYOR SAFETY",
+      "title": "Never Reach Across",
+      "message": "Never reach across a moving conveyor."
+    },
+    {
+      "day_of_year": 204,
+      "theme": "ergonomics",
+      "subheading": "PROPER SEATING",
+      "title": "Support Your Back",
+      "message": "Use a chair that supports your lower back."
+    },
+    {
+      "day_of_year": 205,
+      "theme": "reporting",
+      "subheading": "FEEDBACK CHANNELS",
+      "title": "Use Them",
+      "message": "Use official channels to share safety feedback."
+    },
+    {
+      "day_of_year": 206,
+      "theme": "training",
+      "subheading": "SUPERVISOR SAFETY TRAINING",
+      "title": "Lead By Example",
+      "message": "Supervisors set the safety tone. Lead well."
+    },
+    {
+      "day_of_year": 207,
+      "theme": "compliance",
+      "subheading": "CERTIFICATE VALIDITY",
+      "title": "Check The Dates",
+      "message": "Check certificate validity before relying on it."
+    },
+    {
+      "day_of_year": 208,
+      "theme": "transport",
+      "subheading": "BLIND SPOTS",
+      "title": "Know The Danger Zone",
+      "message": "Know a vehicle's blind spots. Stay clear."
+    },
+    {
+      "day_of_year": 209,
+      "theme": "water",
+      "subheading": "DROUGHT AWARENESS",
+      "title": "Use Wisely",
+      "message": "Use water wisely, especially during dry seasons."
+    },
+    {
+      "day_of_year": 210,
+      "theme": "energy",
+      "subheading": "ENERGY METERING",
+      "title": "Measure To Manage",
+      "message": "You can't manage what you don't measure."
+    },
+    {
+      "day_of_year": 211,
+      "theme": "waste",
+      "subheading": "LANDFILL DIVERSION",
+      "title": "Divert What You Can",
+      "message": "Divert recyclable waste away from landfill."
+    },
+    {
+      "day_of_year": 212,
+      "theme": "air",
+      "subheading": "AIR FILTER MAINTENANCE",
+      "title": "Replace On Schedule",
+      "message": "Replace air filters on their maintenance schedule."
+    },
+    {
+      "day_of_year": 213,
+      "theme": "biodiversity",
+      "subheading": "ECO-FRIENDLY LANDSCAPING",
+      "title": "Choose Sustainable Options",
+      "message": "Choose eco-friendly options for site landscaping."
+    },
+    {
+      "day_of_year": 214,
+      "theme": "mental_health",
+      "subheading": "POSITIVE WORKPLACE CULTURE",
+      "title": "Build It Together",
+      "message": "A positive culture is built by everyone."
+    },
+    {
+      "day_of_year": 215,
+      "theme": "diversity",
+      "subheading": "HUMAN RIGHTS",
+      "title": "Respect Every Worker",
+      "message": "Respecting human rights is a baseline, not a bonus."
+    },
+    {
+      "day_of_year": 216,
+      "theme": "community",
+      "subheading": "NEIGHBORHOOD RELATIONS",
+      "title": "Be A Good Neighbor",
+      "message": "Being a good neighbor matters as much as good business."
+    },
+    {
+      "day_of_year": 217,
+      "theme": "governance",
+      "subheading": "BOARD OVERSIGHT",
+      "title": "Governance Starts At The Top",
+      "message": "Strong governance starts with strong oversight."
+    },
+    {
+      "day_of_year": 218,
+      "theme": "climate",
+      "subheading": "SUSTAINABLE DESIGN",
+      "title": "Build It Better",
+      "message": "Sustainable design reduces impact from the start."
+    },
+    {
+      "day_of_year": 219,
+      "theme": "health",
+      "subheading": "MEDICAL EMERGENCY RESPONSE",
+      "title": "Know The Steps",
+      "message": "Know the steps for a medical emergency."
+    },
+    {
+      "day_of_year": 220,
+      "theme": "observance",
+      "subheading": "INTERNATIONAL WOMEN'S DAY",
+      "title": "Celebrate Equality",
+      "message": "Celebrate equality and the women who drive our progress."
+    },
+    {
+      "day_of_year": 221,
+      "theme": "ppe",
+      "subheading": "REPLACE WORN PPE",
+      "title": "Don't Wait",
+      "message": "Worn-out PPE needs replacing. Ask for new gear."
+    },
+    {
+      "day_of_year": 222,
+      "theme": "fire",
+      "subheading": "ASSEMBLY POINTS",
+      "title": "Know Where To Go",
+      "message": "Know your assembly point before an emergency happens."
+    },
+    {
+      "day_of_year": 223,
+      "theme": "electrical",
+      "subheading": "PORTABLE TOOL SAFETY",
+      "title": "Inspect Before Use",
+      "message": "Inspect power tools before every use."
+    },
+    {
+      "day_of_year": 224,
+      "theme": "chemical",
+      "subheading": "MIXING CHEMICALS",
+      "title": "Never Guess",
+      "message": "Never mix chemicals without checking compatibility."
+    },
+    {
+      "day_of_year": 225,
+      "theme": "machine",
+      "subheading": "PRESS MACHINE SAFETY",
+      "title": "Hands Clear Of Dies",
+      "message": "Keep hands clear of press dies."
+    },
+    {
+      "day_of_year": 226,
+      "theme": "ergonomics",
+      "subheading": "OVERHEAD REACHING",
+      "title": "Use A Step Stool",
+      "message": "Don't stretch. Use a step stool for high shelves."
+    },
+    {
+      "day_of_year": 227,
+      "theme": "reporting",
+      "subheading": "HAZARD IDENTIFICATION",
+      "title": "Spot It First",
+      "message": "Spotting a hazard first prevents the incident."
+    },
+    {
+      "day_of_year": 228,
+      "theme": "training",
+      "subheading": "LEARNING FROM OTHERS",
+      "title": "Share The Lesson",
+      "message": "Share safety lessons learned across teams."
+    },
+    {
+      "day_of_year": 229,
+      "theme": "compliance",
+      "subheading": "REGULATORY CHANGES",
+      "title": "Stay Updated",
+      "message": "Regulations change. Stay updated on what applies to you."
+    },
+    {
+      "day_of_year": 230,
+      "theme": "transport",
+      "subheading": "DRIVER FATIGUE",
+      "title": "Rest Before You Drive",
+      "message": "Never drive when fatigued. Rest first."
+    },
+    {
+      "day_of_year": 231,
+      "theme": "water",
+      "subheading": "COOLING TOWER WATER",
+      "title": "Manage It Well",
+      "message": "Cooling tower water needs proper management."
+    },
+    {
+      "day_of_year": 232,
+      "theme": "energy",
+      "subheading": "MOTOR EFFICIENCY",
+      "title": "Upgrade Old Motors",
+      "message": "Efficient motors use less power for the same work."
+    },
+    {
+      "day_of_year": 233,
+      "theme": "waste",
+      "subheading": "CONTAMINATED WASTE",
+      "title": "Segregate Immediately",
+      "message": "Segregate contaminated waste immediately, don't mix it."
+    },
+    {
+      "day_of_year": 234,
+      "theme": "mental_health",
+      "subheading": "SLEEP MATTERS",
+      "title": "Prioritize Rest",
+      "message": "Good sleep supports good decisions at work."
+    },
+    {
+      "day_of_year": 235,
+      "theme": "diversity",
+      "subheading": "WOMEN IN SAFETY LEADERSHIP",
+      "title": "Representation Matters",
+      "message": "Representation in safety leadership matters."
+    },
+    {
+      "day_of_year": 236,
+      "theme": "climate",
+      "subheading": "CLIMATE RESILIENCE",
+      "title": "Prepare For Change",
+      "message": "Building resilience prepares us for a changing climate."
+    },
+    {
+      "day_of_year": 237,
+      "theme": "health",
+      "subheading": "FATIGUE MANAGEMENT",
+      "title": "Rest Between Shifts",
+      "message": "Proper rest between shifts prevents fatigue-related errors."
+    },
+    {
+      "day_of_year": 238,
+      "theme": "observance",
+      "subheading": "WORLD RECYCLING DAY",
+      "title": "Close The Loop",
+      "message": "Recycling closes the loop on waste."
+    },
+    {
+      "day_of_year": 239,
+      "theme": "ppe",
+      "subheading": "FACE SHIELDS",
+      "title": "Full Face Protection",
+      "message": "Grinding or cutting? Use a face shield too."
+    },
+    {
+      "day_of_year": 240,
+      "theme": "fire",
+      "subheading": "FIRE EQUIPMENT CHECKS",
+      "title": "Stay Ready",
+      "message": "Fire extinguishers need regular checks. Report expired ones."
+    },
+    {
+      "day_of_year": 241,
+      "theme": "electrical",
+      "subheading": "PANEL ACCESS CONTROL",
+      "title": "Authorized Only",
+      "message": "Only authorized staff should open electrical panels."
+    },
+    {
+      "day_of_year": 242,
+      "theme": "chemical",
+      "subheading": "TRANSPORT OF CHEMICALS",
+      "title": "Secure The Load",
+      "message": "Secure chemical containers properly during transport."
+    },
+    {
+      "day_of_year": 243,
+      "theme": "machine",
+      "subheading": "GRINDING & CUTTING",
+      "title": "Use The Guard",
+      "message": "Never operate a grinder without its guard."
+    },
+    {
+      "day_of_year": 244,
+      "theme": "ergonomics",
+      "subheading": "TOOL GRIP DESIGN",
+      "title": "Choose The Right Tool",
+      "message": "Use tools designed to reduce hand strain."
+    },
+    {
+      "day_of_year": 245,
+      "theme": "reporting",
+      "subheading": "ROOT CAUSE THINKING",
+      "title": "Ask Why",
+      "message": "Ask why an incident happened, not just what happened."
+    },
+    {
+      "day_of_year": 246,
+      "theme": "training",
+      "subheading": "HANDS-ON PRACTICE",
+      "title": "Practice Builds Confidence",
+      "message": "Hands-on practice builds real safety confidence."
+    },
+    {
+      "day_of_year": 247,
+      "theme": "compliance",
+      "subheading": "NON-CONFORMANCE CLOSURE",
+      "title": "Close It Fully",
+      "message": "Close non-conformances fully, not just on paper."
+    },
+    {
+      "day_of_year": 248,
+      "theme": "transport",
+      "subheading": "MOBILE PHONE USE",
+      "title": "Focus On Driving",
+      "message": "No phone use while operating a vehicle."
+    },
+    {
+      "day_of_year": 249,
+      "theme": "water",
+      "subheading": "WATER QUALITY TESTING",
+      "title": "Test Regularly",
+      "message": "Test water quality on a regular schedule."
+    },
+    {
+      "day_of_year": 250,
+      "theme": "energy",
+      "subheading": "STANDBY POWER",
+      "title": "Unplug When Not Needed",
+      "message": "Standby power adds up. Unplug when not needed."
+    },
+    {
+      "day_of_year": 251,
+      "theme": "waste",
+      "subheading": "PAPER REDUCTION",
+      "title": "Go Digital",
+      "message": "Reduce paper use. Go digital where possible."
+    },
+    {
+      "day_of_year": 252,
+      "theme": "mental_health",
+      "subheading": "EMOTIONAL WELLBEING",
+      "title": "Check In With Yourself",
+      "message": "Check in with yourself, not just your tasks."
+    },
+    {
+      "day_of_year": 253,
+      "theme": "diversity",
+      "subheading": "CHILD LABOR PREVENTION",
+      "title": "Zero Tolerance",
+      "message": "We have zero tolerance for child labor anywhere in our chain."
+    },
+    {
+      "day_of_year": 254,
+      "theme": "climate",
+      "subheading": "GREEN CERTIFICATIONS",
+      "title": "Aim Higher",
+      "message": "Green certifications push us toward better practices."
+    },
+    {
+      "day_of_year": 255,
+      "theme": "health",
+      "subheading": "HEALTH SCREENING PROGRAMS",
+      "title": "Participate When Offered",
+      "message": "Participate in health screening programs when offered."
+    },
+    {
+      "day_of_year": 256,
+      "theme": "observance",
+      "subheading": "HUMAN RIGHTS DAY",
+      "title": "Respect Every Person",
+      "message": "Every person deserves dignity and respect at work."
+    },
+    {
+      "day_of_year": 257,
+      "theme": "ppe",
+      "subheading": "APRONS & SLEEVES",
+      "title": "Extra Layer",
+      "message": "Chemical tasks need aprons and sleeves. Wear them."
+    },
+    {
+      "day_of_year": 258,
+      "theme": "fire",
+      "subheading": "NO SMOKING ZONES",
+      "title": "Respect The Rule",
+      "message": "No smoking zones exist for a reason. Follow them."
+    },
+    {
+      "day_of_year": 259,
+      "theme": "electrical",
+      "subheading": "CABLE MANAGEMENT",
+      "title": "Keep It Tidy",
+      "message": "Tidy cables prevent trips and damage."
+    },
+    {
+      "day_of_year": 260,
+      "theme": "chemical",
+      "subheading": "EXPIRED CHEMICALS",
+      "title": "Check The Date",
+      "message": "Check expiry dates before using stored chemicals."
+    },
+    {
+      "day_of_year": 261,
+      "theme": "machine",
+      "subheading": "COMPRESSED AIR SAFETY",
+      "title": "Never Point At Skin",
+      "message": "Never point compressed air at skin or clothing."
+    },
+    {
+      "day_of_year": 262,
+      "theme": "ergonomics",
+      "subheading": "SCREEN HEIGHT",
+      "title": "Eye Level Matters",
+      "message": "Set your screen at eye level."
+    },
+    {
+      "day_of_year": 263,
+      "theme": "reporting",
+      "subheading": "REPORT DAMAGED EQUIPMENT",
+      "title": "Tag It Out",
+      "message": "Damaged equipment? Tag it and report it."
+    },
+    {
+      "day_of_year": 264,
+      "theme": "training",
+      "subheading": "KNOWLEDGE CHECKS",
+      "title": "Test Your Understanding",
+      "message": "Test your safety knowledge regularly."
+    },
+    {
+      "day_of_year": 265,
+      "theme": "compliance",
+      "subheading": "LICENSE RENEWAL TIMELINE",
+      "title": "Plan Ahead",
+      "message": "Plan license renewals well before the deadline."
+    },
+    {
+      "day_of_year": 266,
+      "theme": "transport",
+      "subheading": "PARKING SAFETY",
+      "title": "Park In Designated Areas",
+      "message": "Park only in designated, marked areas."
+    },
+    {
+      "day_of_year": 267,
+      "theme": "water",
+      "subheading": "IRRIGATION EFFICIENCY",
+      "title": "Water Smart",
+      "message": "Use efficient irrigation for site greenery."
+    },
+    {
+      "day_of_year": 268,
+      "theme": "energy",
+      "subheading": "ENERGY TARGETS",
+      "title": "Track Our Progress",
+      "message": "Track energy targets and celebrate progress."
+    },
+    {
+      "day_of_year": 269,
+      "theme": "waste",
+      "subheading": "SUPPLIER PACKAGING",
+      "title": "Ask For Less",
+      "message": "Ask suppliers to reduce packaging waste."
+    },
+    {
+      "day_of_year": 270,
+      "theme": "mental_health",
+      "subheading": "SUPPORTIVE LEADERSHIP",
+      "title": "Lead With Empathy",
+      "message": "Supportive leaders build safer, stronger teams."
+    },
+    {
+      "day_of_year": 271,
+      "theme": "diversity",
+      "subheading": "FORCED LABOR PREVENTION",
+      "title": "Never Acceptable",
+      "message": "Forced labor is never acceptable, anywhere."
+    },
+    {
+      "day_of_year": 272,
+      "theme": "climate",
+      "subheading": "RENEWABLE TARGETS",
+      "title": "Set The Bar High",
+      "message": "Renewable energy targets push us forward."
+    },
+    {
+      "day_of_year": 273,
+      "theme": "health",
+      "subheading": "ERGONOMIC EQUIPMENT",
+      "title": "Use What's Provided",
+      "message": "Use ergonomic equipment provided for your role."
+    },
+    {
+      "day_of_year": 274,
+      "theme": "observance",
+      "subheading": "ZERO EMISSION DAY",
+      "title": "Imagine The Difference",
+      "message": "Imagine the difference zero emissions could make."
+    },
+    {
+      "day_of_year": 275,
+      "theme": "ppe",
+      "subheading": "FALL HARNESS",
+      "title": "Clip In",
+      "message": "Working at height? Clip your harness in first."
+    },
+    {
+      "day_of_year": 276,
+      "theme": "fire",
+      "subheading": "KITCHEN FIRE SAFETY",
+      "title": "Canteen Care",
+      "message": "Never leave cooking equipment unattended."
+    },
+    {
+      "day_of_year": 277,
+      "theme": "electrical",
+      "subheading": "BACKUP GENERATOR SAFETY",
+      "title": "Ventilate Properly",
+      "message": "Run generators in ventilated areas only."
+    },
+    {
+      "day_of_year": 278,
+      "theme": "chemical",
+      "subheading": "SDS TRAINING",
+      "title": "Know Where They Are",
+      "message": "Know where your area's SDS binder is kept."
+    },
+    {
+      "day_of_year": 279,
+      "theme": "machine",
+      "subheading": "MACHINE GUARDING CHECKS",
+      "title": "Report Missing Guards",
+      "message": "Report any missing or damaged machine guard."
+    },
+    {
+      "day_of_year": 280,
+      "theme": "ergonomics",
+      "subheading": "LOAD LIMITS",
+      "title": "Know Your Limit",
+      "message": "Know the safe lifting limit for your task."
+    },
+    {
+      "day_of_year": 281,
+      "theme": "reporting",
+      "subheading": "TIMELY REPORTING",
+      "title": "Don't Delay",
+      "message": "A delayed report is a missed prevention chance."
+    },
+    {
+      "day_of_year": 282,
+      "theme": "training",
+      "subheading": "VISUAL SAFETY AIDS",
+      "title": "Use The Posters",
+      "message": "Safety posters are reminders. Read them."
+    },
+    {
+      "day_of_year": 283,
+      "theme": "compliance",
+      "subheading": "COMPLIANCE OWNERSHIP",
+      "title": "Know Who's Responsible",
+      "message": "Know who owns each compliance requirement."
+    },
+    {
+      "day_of_year": 284,
+      "theme": "transport",
+      "subheading": "VEHICLE MAINTENANCE",
+      "title": "Keep It Serviced",
+      "message": "Keep site vehicles on a maintenance schedule."
+    },
+    {
+      "day_of_year": 285,
+      "theme": "water",
+      "subheading": "WATER STEWARDSHIP",
+      "title": "Protect The Source",
+      "message": "Protect the water sources our community shares."
+    },
+    {
+      "day_of_year": 286,
+      "theme": "energy",
+      "subheading": "NATURAL LIGHT",
+      "title": "Use It First",
+      "message": "Use natural daylight before switching on lights."
+    },
+    {
+      "day_of_year": 287,
+      "theme": "waste",
+      "subheading": "WASTE STORAGE",
+      "title": "Store It Safely",
+      "message": "Store waste in designated, safe areas."
+    },
+    {
+      "day_of_year": 288,
+      "theme": "mental_health",
+      "subheading": "WORKLOAD BALANCE",
+      "title": "Speak Up If Overloaded",
+      "message": "Speak up if your workload feels overwhelming."
+    },
+    {
+      "day_of_year": 289,
+      "theme": "diversity",
+      "subheading": "FAIR GRIEVANCE HANDLING",
+      "title": "Every Voice Matters",
+      "message": "Every grievance deserves a fair hearing."
+    },
+    {
+      "day_of_year": 290,
+      "theme": "climate",
+      "subheading": "CARBON OFFSETTING",
+      "title": "Understand The Role",
+      "message": "Offsetting supports action, but reduction comes first."
+    },
+    {
+      "day_of_year": 291,
+      "theme": "health",
+      "subheading": "ALLERGY AWARENESS",
+      "title": "Know Your Triggers",
+      "message": "Know your workplace allergy triggers and report them."
+    },
+    {
+      "day_of_year": 292,
+      "theme": "observance",
+      "subheading": "WORLD ENERGY SAVING DAY",
+      "title": "Small Steps, Big Impact",
+      "message": "Small energy-saving steps add up to a big impact."
+    },
+    {
+      "day_of_year": 293,
+      "theme": "ppe",
+      "subheading": "PPE STORAGE",
+      "title": "Store It Right",
+      "message": "Store PPE clean and dry after every shift."
+    },
+    {
+      "day_of_year": 294,
+      "theme": "fire",
+      "subheading": "FIRE WATCH DUTY",
+      "title": "Stay Alert After Hot Work",
+      "message": "Fire watch continues after hot work ends."
+    },
+    {
+      "day_of_year": 295,
+      "theme": "electrical",
+      "subheading": "UPS & BATTERY SAFETY",
+      "title": "Handle With Care",
+      "message": "Battery systems need careful handling. Follow procedure."
+    },
+    {
+      "day_of_year": 296,
+      "theme": "chemical",
+      "subheading": "SKIN CONTACT",
+      "title": "Wash Immediately",
+      "message": "Chemical on skin? Wash immediately, then report."
+    },
+    {
+      "day_of_year": 297,
+      "theme": "machine",
+      "subheading": "TOOL CONDITION",
+      "title": "Check Before Use",
+      "message": "Check hand tools for damage before use."
+    },
+    {
+      "day_of_year": 298,
+      "theme": "ergonomics",
+      "subheading": "TWISTING WHILE LIFTING",
+      "title": "Turn Your Feet",
+      "message": "Turn your feet, don't twist your back."
+    },
+    {
+      "day_of_year": 299,
+      "theme": "reporting",
+      "subheading": "GRIEVANCE MECHANISM",
+      "title": "Your Voice Is Heard",
+      "message": "Raise concerns through the grievance channel."
+    },
+    {
+      "day_of_year": 300,
+      "theme": "training",
+      "subheading": "MENTORING NEW WORKERS",
+      "title": "Guide Them Well",
+      "message": "Mentor new workers on safe practices."
+    },
+    {
+      "day_of_year": 301,
+      "theme": "compliance",
+      "subheading": "RECORD RETENTION",
+      "title": "Keep It Accessible",
+      "message": "Keep compliance records accessible and organized."
+    },
+    {
+      "day_of_year": 302,
+      "theme": "transport",
+      "subheading": "TRAFFIC MANAGEMENT PLAN",
+      "title": "Know The Routes",
+      "message": "Know the site traffic management routes."
+    },
+    {
+      "day_of_year": 303,
+      "theme": "water",
+      "subheading": "HAND WASHING STATIONS",
+      "title": "Keep Them Working",
+      "message": "Keep hand washing stations clean and working."
+    },
+    {
+      "day_of_year": 304,
+      "theme": "energy",
+      "subheading": "COMPRESSED AIR LEAKS",
+      "title": "Fix Them Fast",
+      "message": "Compressed air leaks waste real energy. Report them."
+    },
+    {
+      "day_of_year": 305,
+      "theme": "waste",
+      "subheading": "CIRCULAR ECONOMY",
+      "title": "Think Reuse First",
+      "message": "Think reuse and repair before you discard."
+    },
+    {
+      "day_of_year": 306,
+      "theme": "mental_health",
+      "subheading": "CELEBRATE SMALL WINS",
+      "title": "Recognize Progress",
+      "message": "Recognize small wins. Progress adds up."
+    },
+    {
+      "day_of_year": 307,
+      "theme": "diversity",
+      "subheading": "INCLUSIVE HIRING",
+      "title": "Open Doors",
+      "message": "Inclusive hiring opens doors for everyone."
+    },
+    {
+      "day_of_year": 308,
+      "theme": "climate",
+      "subheading": "CLIMATE COMMITMENTS",
+      "title": "Hold Us Accountable",
+      "message": "Our climate commitments should hold us accountable."
+    },
+    {
+      "day_of_year": 309,
+      "theme": "health",
+      "subheading": "CLEAN DRINKING WATER",
+      "title": "Access Matters",
+      "message": "Clean drinking water access matters for everyone."
+    },
+    {
+      "day_of_year": 310,
+      "theme": "observance",
+      "subheading": "SAFETY MONTH WRAP-UP",
+      "title": "Reflect And Renew",
+      "message": "Reflect on this year's safety lessons and renew your commitment."
+    },
+    {
+      "day_of_year": 311,
+      "theme": "ppe",
+      "subheading": "PERSONAL HYGIENE",
+      "title": "Wash Before You Eat",
+      "message": "Wash your hands before every meal break."
+    },
+    {
+      "day_of_year": 312,
+      "theme": "fire",
+      "subheading": "EVACUATION ROUTES",
+      "title": "Learn The Map",
+      "message": "Learn every evacuation route in your building."
+    },
+    {
+      "day_of_year": 313,
+      "theme": "electrical",
+      "subheading": "LOTO TAGS",
+      "title": "Tag It, Don't Skip It",
+      "message": "Always tag out equipment before servicing."
+    },
+    {
+      "day_of_year": 314,
+      "theme": "chemical",
+      "subheading": "FUME EXTRACTION",
+      "title": "Use The Hood",
+      "message": "Use fume extraction for volatile chemicals."
+    },
+    {
+      "day_of_year": 315,
+      "theme": "machine",
+      "subheading": "VIBRATION EXPOSURE",
+      "title": "Take Breaks",
+      "message": "Long vibration exposure needs regular breaks."
+    },
+    {
+      "day_of_year": 316,
+      "theme": "reporting",
+      "subheading": "SAFETY COMMITTEE",
+      "title": "Get Involved",
+      "message": "Join your area's safety committee discussions."
+    },
+    {
+      "day_of_year": 317,
+      "theme": "compliance",
+      "subheading": "INSPECTION READINESS",
+      "title": "Always Ready",
+      "message": "Treat every day like an inspection could happen."
+    },
+    {
+      "day_of_year": 318,
+      "theme": "ppe",
+      "subheading": "SUN PROTECTION",
+      "title": "Outdoor Work Safety",
+      "message": "Working outside? Use sunscreen and a hat."
+    },
+    {
+      "day_of_year": 319,
+      "theme": "fire",
+      "subheading": "FIRE DOORS",
+      "title": "Keep Them Closed",
+      "message": "Fire doors save lives. Keep them closed, not propped."
+    },
+    {
+      "day_of_year": 320,
+      "theme": "electrical",
+      "subheading": "HIGH VOLTAGE AREAS",
+      "title": "Stay Clear",
+      "message": "Only trained staff enter high voltage areas."
+    },
+    {
+      "day_of_year": 321,
+      "theme": "chemical",
+      "subheading": "SECONDARY CONTAINMENT",
+      "title": "Prevent The Spread",
+      "message": "Use secondary containment trays for liquid chemicals."
+    },
+    {
+      "day_of_year": 322,
+      "theme": "machine",
+      "subheading": "ROBOT & AUTOMATION SAFETY",
+      "title": "Respect The Barrier",
+      "message": "Never cross a robot cell safety barrier."
+    },
+    {
+      "day_of_year": 323,
+      "theme": "reporting",
+      "subheading": "CORRECTIVE ACTION FOLLOW-UP",
+      "title": "Close The Loop",
+      "message": "Follow up on corrective actions until they're closed."
+    },
+    {
+      "day_of_year": 324,
+      "theme": "compliance",
+      "subheading": "POLICY AWARENESS",
+      "title": "Read The Policy",
+      "message": "Read and understand company safety policies."
+    },
+    {
+      "day_of_year": 325,
+      "theme": "ppe",
+      "subheading": "COLD WEATHER GEAR",
+      "title": "Stay Warm, Stay Safe",
+      "message": "Cold areas need proper thermal gear."
+    },
+    {
+      "day_of_year": 326,
+      "theme": "fire",
+      "subheading": "COMBUSTIBLE WASTE",
+      "title": "Clear It Daily",
+      "message": "Combustible waste piles up risk. Clear it daily."
+    },
+    {
+      "day_of_year": 327,
+      "theme": "electrical",
+      "subheading": "ELECTRICAL PPE",
+      "title": "Insulated Gear Only",
+      "message": "Use insulated gloves for electrical work."
+    },
+    {
+      "day_of_year": 328,
+      "theme": "chemical",
+      "subheading": "HAZMAT SIGNAGE",
+      "title": "Read The Sign",
+      "message": "Hazmat signage tells you what's inside. Read it."
+    },
+    {
+      "day_of_year": 329,
+      "theme": "machine",
+      "subheading": "PRESSURE VESSEL SAFETY",
+      "title": "Check The Gauge",
+      "message": "Check pressure gauges before operating vessels."
+    },
+    {
+      "day_of_year": 330,
+      "theme": "reporting",
+      "subheading": "TRANSPARENT REPORTING",
+      "title": "No Blame Culture",
+      "message": "We investigate to prevent, not to blame."
+    },
+    {
+      "day_of_year": 331,
+      "theme": "compliance",
+      "subheading": "CORRECTIVE ACTION TRACKING",
+      "title": "Track To Completion",
+      "message": "Track every corrective action to completion."
+    },
+    {
+      "day_of_year": 332,
+      "theme": "ppe",
+      "subheading": "KNEE PROTECTION",
+      "title": "Protect Your Joints",
+      "message": "Kneeling often? Use knee pads."
+    },
+    {
+      "day_of_year": 333,
+      "theme": "fire",
+      "subheading": "EMERGENCY LIGHTING",
+      "title": "Check It Works",
+      "message": "Report any emergency light that isn't working."
+    },
+    {
+      "day_of_year": 334,
+      "theme": "electrical",
+      "subheading": "SWITCHGEAR MAINTENANCE",
+      "title": "Schedule It",
+      "message": "Keep switchgear maintenance on schedule."
+    },
+    {
+      "day_of_year": 335,
+      "theme": "chemical",
+      "subheading": "CHEMICAL HANDLING TRAINING",
+      "title": "Get Certified",
+      "message": "Only trained staff should handle hazardous chemicals."
+    },
+    {
+      "day_of_year": 336,
+      "theme": "machine",
+      "subheading": "MACHINE STARTUP PROCEDURE",
+      "title": "Follow The Sequence",
+      "message": "Follow the correct startup sequence every time."
+    },
+    {
+      "day_of_year": 337,
+      "theme": "reporting",
+      "subheading": "DOCUMENT EVERYTHING",
+      "title": "Keep The Record",
+      "message": "Document safety observations clearly and promptly."
+    },
+    {
+      "day_of_year": 338,
+      "theme": "compliance",
+      "subheading": "COMPLIANCE CALENDAR",
+      "title": "Mark The Dates",
+      "message": "Mark compliance deadlines on your calendar."
+    },
+    {
+      "day_of_year": 339,
+      "theme": "ppe",
+      "subheading": "BACK SUPPORT",
+      "title": "Support Your Spine",
+      "message": "Heavy lifting? Wear your back support belt."
+    },
+    {
+      "day_of_year": 340,
+      "theme": "fire",
+      "subheading": "FIRE SAFETY OFFICER",
+      "title": "Know Who To Call",
+      "message": "Know your fire safety officer's contact."
+    },
+    {
+      "day_of_year": 341,
+      "theme": "electrical",
+      "subheading": "REPORT SPARKING EQUIPMENT",
+      "title": "Don't Ignore It",
+      "message": "Sparking equipment needs immediate reporting."
+    },
+    {
+      "day_of_year": 342,
+      "theme": "chemical",
+      "subheading": "PERSONAL DECONTAMINATION",
+      "title": "Know The Steps",
+      "message": "Know your decontamination steps before an exposure happens."
+    },
+    {
+      "day_of_year": 343,
+      "theme": "machine",
+      "subheading": "EQUIPMENT TAGGING",
+      "title": "Red Tag Faulty Equipment",
+      "message": "Tag faulty equipment red. Don't use it."
+    },
+    {
+      "day_of_year": 344,
+      "theme": "reporting",
+      "subheading": "ESCALATE WHEN NEEDED",
+      "title": "Don't Sit On It",
+      "message": "Escalate unresolved safety concerns without delay."
+    },
+    {
+      "day_of_year": 345,
+      "theme": "compliance",
+      "subheading": "MANAGEMENT REVIEW",
+      "title": "Review Regularly",
+      "message": "Review compliance status with management regularly."
+    },
+    {
+      "day_of_year": 346,
+      "theme": "ppe",
+      "subheading": "PPE TRAINING",
+      "title": "Learn To Use It",
+      "message": "PPE only works if you use it right. Get trained."
+    },
+    {
+      "day_of_year": 347,
+      "theme": "fire",
+      "subheading": "SPRINKLER SYSTEMS",
+      "title": "Don't Block Them",
+      "message": "Never stack material near sprinkler heads."
+    },
+    {
+      "day_of_year": 348,
+      "theme": "ppe",
+      "subheading": "CHEMICAL GLOVES",
+      "title": "Right Glove, Right Job",
+      "message": "Different chemicals need different gloves. Check the chart."
+    },
+    {
+      "day_of_year": 349,
+      "theme": "fire",
+      "subheading": "FIRE BLANKETS",
+      "title": "Know Where They Are",
+      "message": "Know where the nearest fire blanket is kept."
+    },
+    {
+      "day_of_year": 350,
+      "theme": "ppe",
+      "subheading": "DUST MASKS",
+      "title": "Filter The Air",
+      "message": "Dusty area? Wear your dust mask correctly."
+    },
+    {
+      "day_of_year": 351,
+      "theme": "fire",
+      "subheading": "STATIC & SPARKS",
+      "title": "Prevent Ignition",
+      "message": "Static sparks can ignite flammable vapors. Ground your equipment."
+    },
+    {
+      "day_of_year": 352,
+      "theme": "ppe",
+      "subheading": "SAFETY GOGGLES VS GLASSES",
+      "title": "Know The Difference",
+      "message": "Splash risk needs goggles, not just glasses."
+    },
+    {
+      "day_of_year": 353,
+      "theme": "fire",
+      "subheading": "MOCK DRILLS",
+      "title": "Take Them Seriously",
+      "message": "A mock drill today prevents panic tomorrow."
+    },
+    {
+      "day_of_year": 354,
+      "theme": "ppe",
+      "subheading": "EAR MUFFS",
+      "title": "Extra Ear Protection",
+      "message": "Very loud area? Use ear muffs, not just plugs."
+    },
+    {
+      "day_of_year": 355,
+      "theme": "fire",
+      "subheading": "FIRE SAFETY WEEK",
+      "title": "Refresh Your Knowledge",
+      "message": "Use fire safety week to refresh your knowledge."
+    },
+    {
+      "day_of_year": 356,
+      "theme": "ppe",
+      "subheading": "PPE COMPLIANCE",
+      "title": "No Exceptions",
+      "message": "PPE rules apply to everyone, every time."
+    },
+    {
+      "day_of_year": 357,
+      "theme": "fire",
+      "subheading": "ELECTRICAL PANEL ACCESS",
+      "title": "Keep It Clear",
+      "message": "Keep 3 feet clear in front of electrical panels."
+    },
+    {
+      "day_of_year": 358,
+      "theme": "ppe",
+      "subheading": "VISITOR PPE",
+      "title": "Guests Need Gear Too",
+      "message": "Visitors on the floor need PPE too."
+    },
+    {
+      "day_of_year": 359,
+      "theme": "fire",
+      "subheading": "FLAMMABLE GAS CYLINDERS",
+      "title": "Store Upright",
+      "message": "Store gas cylinders upright and secured."
+    },
+    {
+      "day_of_year": 360,
+      "theme": "ppe",
+      "subheading": "SAFETY VEST COLORS",
+      "title": "Know The Code",
+      "message": "Different vest colors mean different roles. Learn them."
+    },
+    {
+      "day_of_year": 361,
+      "theme": "fire",
+      "subheading": "FIRE RISK ASSESSMENT",
+      "title": "Spot The Hazard",
+      "message": "Spot fire hazards before they become incidents."
+    },
+    {
+      "day_of_year": 362,
+      "theme": "ppe",
+      "subheading": "REFLECTIVE GEAR",
+      "title": "Night Shift Safety",
+      "message": "Night shift? Wear reflective gear near traffic."
+    },
+    {
+      "day_of_year": 363,
+      "theme": "fire",
+      "subheading": "BURN FIRST AID",
+      "title": "Know The Basics",
+      "message": "Know basic burn first aid before you need it."
+    },
+    {
+      "day_of_year": 364,
+      "theme": "ppe",
+      "subheading": "PPE OWNERSHIP",
+      "title": "It's Yours, Own It",
+      "message": "Your PPE is yours. Keep it, care for it."
+    },
+    {
+      "day_of_year": 365,
+      "theme": "fire",
+      "subheading": "FIRE SAFETY CULTURE",
+      "title": "Everyone's Job",
+      "message": "Fire safety isn't one person's job. It's everyone's."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Veltrix Sentinel - Global Pink / Magenta Theme Specification -->
+    <color name="gradient_top">#C2185B</color>
+    <color name="gradient_middle">#AD1457</color>
+    <color name="gradient_bottom">#880E4F</color>
+    <color name="bright_pink_highlight">#D81B60</color>
+    <color name="light_pink_surface">#E8A0BC</color>
+    <color name="gold_accents">#F2B705</color>
+    <color name="primary_text">#FDF4E8</color>
+    <color name="secondary_text">#E8C4D4</color>
+    <color name="text_on_light_pink">#650D32</color>
+</resources>

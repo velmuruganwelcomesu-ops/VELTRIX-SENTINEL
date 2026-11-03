@@ -1,0 +1,8 @@
+{
+  "name": "VELTRIX SENTINEL V1",
+  "description": "Safety Non-Conformance Audit Report app with multi-company management, observation tracking, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
